@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sanidhya 👋</h1>
 
 <p align="center">
-Machine Learning • NLP • Generative AI
+  <sub>Machine Learning • NLP • Generative AI</sub>
 </p>
 
 ---
@@ -24,8 +24,11 @@ Computer Science student focused on building real-world AI applications using Ma
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya069&show_icons=true&theme=github_dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya069&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 ### 📫 Connect
-- LinkedIn: https://linkedin.com/in/sanidhya10
+
+<p align="left">
+  <a href="https://linkedin.com/in/sanidhya10">LinkedIn</a>
+</p>
