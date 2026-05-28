@@ -1,18 +1,31 @@
-# Hi there, I'm Sanidhya Shrivastava 👋
+<h1 align="center">Hi, I'm Sanidhya 👋</h1>
 
-I am a 3rd-year Computer Science student specializing in **Machine Learning**, **Natural Language Processing (NLP)**, and **Generative AI**. I focus on moving beyond Jupyter Notebooks by building predictive models and deploying them into interactive, user-friendly applications.
-
-### 🛠️ Core Tech Stack
-* **Languages:** Python, C, SQL
-* **AI & Data Science:** Scikit-Learn, Generative AI, NLP, Pandas, NumPy, Hadoop
-* **Tools & Frameworks:** Docker, Git, Streamlit, VS Code / Cursor AI
-
-### 🚀 Featured Engineering Projects
-* **[Netflix Catalog Explorer & NLP Recommender](https://github.com/Sanidhya069/Netflix-Catalog-Explorer-NLP-Recommender):** A semantic search engine utilizing TF-IDF vectorization, Cosine Similarity, and live REST API integration (TMDB) to deliver real-time content matching.
-* **[CreditWise AI Loan System](https://github.com/Sanidhya069/CreditWise-AI-Loan-System):** A predictive financial risk model with a built-in UI guardrail system, leveraging machine learning and LLM concepts to provide real-time feasibility analysis.
-
-### 📊 GitHub Activity
-![Sanidhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanidhya069&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF)
+<p align="center">
+Machine Learning • NLP • Generative AI
+</p>
 
 ---
-*📫 Let's connect on [LinkedIn](https://linkedin.com/in/sanidhya10)*
+
+Computer Science student focused on building real-world AI applications using Machine Learning, NLP, and modern deployment workflows.
+
+### 🛠 Tech Stack
+- Python, SQL, C
+- Scikit-Learn, Pandas, NumPy, NLP
+- Streamlit, Docker, Git
+
+### 🚀 Featured Projects
+
+- **[Netflix Catalog Explorer & NLP Recommender](https://github.com/Sanidhya069/Netflix-Catalog-Explorer-NLP-Recommender)**  
+  Semantic recommendation engine using TF-IDF, cosine similarity, and TMDB API integration.
+
+- **[CreditWise AI Loan System](https://github.com/Sanidhya069/CreditWise-AI-Loan-System)**  
+  ML-powered loan risk analysis system with financial guardrail logic and interactive UI.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya069&show_icons=true&theme=github_dark&hide_border=true" height="165">
+</p>
+
+### 📫 Connect
+- LinkedIn: https://linkedin.com/in/sanidhya10
