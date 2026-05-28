@@ -12,9 +12,7 @@ I am a 3rd-year Computer Science student specializing in **Machine Learning**, *
 * **[CreditWise AI Loan System](https://github.com/Sanidhya069/CreditWise-AI-Loan-System):** A predictive financial risk model with a built-in UI guardrail system, leveraging machine learning and LLM concepts to provide real-time feasibility analysis.
 
 ### 📊 GitHub Activity
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya069&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="150" alt="Sanidhya's GitHub Stats" />
-</div>
+![Sanidhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanidhya069&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF)
 
 ---
 *📫 Let's connect on [LinkedIn](https://linkedin.com/in/sanidhya10)*
