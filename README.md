@@ -21,7 +21,7 @@ Computer Science student focused on building real-world AI applications using Ma
 - **[CreditWise AI Loan System](https://github.com/Sanidhya069/CreditWise-AI-Loan-System)**  
   ML-powered loan risk analysis system with financial guardrail logic and interactive UI.
 
-### 📊 GitHub Stats
+### 📈 Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sanidhya069&theme=github_dark&hide_border=true&v=1" alt="Sanidhya's GitHub Streak" />
