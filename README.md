@@ -24,7 +24,7 @@ Computer Science student focused on building real-world AI applications using Ma
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sanidhya069&theme=github_dark&hide_border=true&v=1" alt="Sanidhya's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sanidhya069&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Sanidhya's GitHub Streak" />
 </p>
 
 ### 📫 Connect
